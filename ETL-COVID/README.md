@@ -6,7 +6,7 @@ La siguiente datos fueron extraidos de la Plataforma Nacional de Datos Abiertos 
 ## DICCIONARIO DE DATOS: FALLECIDOS POR COVID - 19
 La siguiente datos fueron extraidos de la Plataforma Nacional de Datos Abiertos del MINSA: [FALLECIDOS COVID - 19](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa).
 
-![diccionario fallecidos covid]()
+![diccionario fallecidos covid](https://github.com/Renzo1818/Analisis-Datos-COVID19/assets/93232895/4ad14e84-6525-41ab-aed0-617dc551da74)
 
 ## DICCIONARIO DE DATOS: VACUNACIÓN COVID - 19
 La siguiente datos fueron extraidos de la Plataforma Nacional de Datos Abiertos del MINSA: [VACUNACIÓN COVID - 19](https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa).
