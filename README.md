@@ -8,7 +8,7 @@ Oracle VirtualBox:
 
 Pandas:
 
-![](https://hg95.github.io/numpy-pandas-scipy/Chapter2/img/1920px-Pandas_logo.svg.png)
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy91RFJrTVdMaWEyOGh6SzllaWNwVmpVSklLdERwZWVkcjVpYUs4NU11bHpKamVXemR1SjB3aWM1Mnk1OWZ2dkxIZUxaQkMzc1dmdFJ3UkNDNmc1em5JNE5wamcvNjQw?x-oss-process=image/format,png)
 
 PySpark:
 
