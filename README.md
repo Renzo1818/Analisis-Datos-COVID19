@@ -1,5 +1,5 @@
 # Análisis de Datos: COVID - 19
-El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la [Plataforma Nacional de Datos Abiertos del MINSA](https://www.datosabiertos.gob.pe/). Entre los datos a analizar estan: [casos confirmados COVID-19](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa), [registro vacunación](https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa), entre otras.
+El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la [Plataforma Nacional de Datos Abiertos del MINSA](https://www.datosabiertos.gob.pe/). Entre los datos a analizar estan: [casos confirmados COVID-19](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa), [registro de fallecidos por COVID-19](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa), [registro vacunación](https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa), entre otras.
 
 ### Tecnologías y herramientas empleadas
 Oracle VirtualBox:
