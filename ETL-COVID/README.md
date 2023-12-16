@@ -1,4 +1,4 @@
-![image](https://github.com/Renzo1818/Analisis-Datos-COVID19/assets/93232895/003efcda-e628-414c-ac5b-60e1bea008c2)## DICCIONARIO DE DATOS: CASOS POSITIVOS COVID - 19
+## DICCIONARIO DE DATOS: CASOS POSITIVOS COVID - 19
 La siguiente datos fueron extraidos de la Plataforma Nacional de Datos Abiertos del MINSA: [CASOS POSITIVO COVID - 19](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa).
 
 ![diccionario casos positivos](https://github.com/Renzo1818/Analisis-Datos-COVID19/assets/93232895/7ca0ceb0-8370-49c0-ba98-48daf6709e2e)
