@@ -6,6 +6,14 @@ Oracle VirtualBox:
 
 ![](https://th.bing.com/th/id/R.da15db6964f3d9d342d2640409acb815?rik=q%2bOWhHwrjenwfQ&pid=ImgRaw&r=0&sres=1&sresct=1)
 
+Pandas:
+
+![](https://hg95.github.io/numpy-pandas-scipy/Chapter2/img/1920px-Pandas_logo.svg.png)
+
+PySpark:
+
+![](https://www.staffworx.co.uk/wp-content/uploads/2021/07/pyspark-768x433.jpeg)
+
 Oracle Database 19c:
 
 ![](https://1.bp.blogspot.com/-TpggTngsmGg/XpvB9il-51I/AAAAAAAAKfU/Ik-OV8eLhoQJjc5RTk_KWggsyan-pHYGACLcBGAsYHQ/s1600/19c_image.jpg)
