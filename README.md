@@ -2,13 +2,13 @@
 El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la [Plataforma Nacional de Datos Abiertos del MINSA](https://www.datosabiertos.gob.pe/). Entre los datos a analizar estan: [casos confirmados COVID-19](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa), [registro de fallecidos por COVID-19](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa), [registro vacunación](https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa), entre otras.
 
 ### Tecnologías y herramientas empleadas
-Oracle VirtualBox:
+#### Oracle VirtualBox:
 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.da15db6964f3d9d342d2640409acb815?rik=q%2bOWhHwrjenwfQ&pid=ImgRaw&r=0&sres=1&sresct=1"/>
 </p>
 
-Pandas:
+#### Pandas:
 
 ![]()
 
@@ -17,31 +17,31 @@ Pandas:
 </p>
 
 
-PySpark:
+#### PySpark:
 
 <p align="center">
   <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/07/pyspark-768x433.jpeg"/>
 </p>
 
-Oracle Database 19c:
+#### Oracle Database 19c:
 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-TpggTngsmGg/XpvB9il-51I/AAAAAAAAKfU/Ik-OV8eLhoQJjc5RTk_KWggsyan-pHYGACLcBGAsYHQ/s1600/19c_image.jpg"/>
 </p>
 
-Oracle SQL Developer:
+#### Oracle SQL Developer:
 
 <p align="center">
   <img src="https://techgoeasy.com/wp-content/uploads/2016/07/oracle_sql_developer.png"/>
 </p>
 
-Oracle SQL Developer Data Modeler:
+#### Oracle SQL Developer Data Modeler:
 
 <p align="center">
   <img src="https://3.bp.blogspot.com/_JWosBXRVxhY/SmRTRCFsYBI/AAAAAAAADPY/0CjvoQOftVQ/s400/Oracle_sql_developer_data_modeler.jpg"/>
 </p>
 
-Microsoft Power BI:
+#### Microsoft Power BI:
 
 <p align="center">
   <img src="https://iexcel.in/wp-content/uploads/2020/05/Power-Bi-1-850x440.jpg"/>
