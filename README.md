@@ -15,7 +15,7 @@ PySpark:
 ![](https://www.staffworx.co.uk/wp-content/uploads/2021/07/pyspark-768x433.jpeg)
 
 <p align="center">
-  <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/07/pyspark-768x433.jpeg/>
+  <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/07/pyspark-768x433.jpeg"/>
 </p>
 
 Oracle Database 19c:
