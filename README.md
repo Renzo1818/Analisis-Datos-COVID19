@@ -4,15 +4,20 @@ El presente proyecto tiene como objetivo analizar los datos masivos proporcionad
 ### Tecnologías y herramientas empleadas
 Oracle VirtualBox:
 
-![](https://th.bing.com/th/id/R.da15db6964f3d9d342d2640409acb815?rik=q%2bOWhHwrjenwfQ&pid=ImgRaw&r=0&sres=1&sresct=1)
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.da15db6964f3d9d342d2640409acb815?rik=q%2bOWhHwrjenwfQ&pid=ImgRaw&r=0&sres=1&sresct=1"/>
+</p>
 
 Pandas:
 
-![](https://miro.medium.com/max/1620/1*b3P4rdrVHMIHbhQXnwRVew.jpeg)
+![]()
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1620/1*b3P4rdrVHMIHbhQXnwRVew.jpeg"/>
+</p>
+
 
 PySpark:
-
-![](https://www.staffworx.co.uk/wp-content/uploads/2021/07/pyspark-768x433.jpeg)
 
 <p align="center">
   <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/07/pyspark-768x433.jpeg"/>
@@ -20,19 +25,27 @@ PySpark:
 
 Oracle Database 19c:
 
-![](https://1.bp.blogspot.com/-TpggTngsmGg/XpvB9il-51I/AAAAAAAAKfU/Ik-OV8eLhoQJjc5RTk_KWggsyan-pHYGACLcBGAsYHQ/s1600/19c_image.jpg)
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-TpggTngsmGg/XpvB9il-51I/AAAAAAAAKfU/Ik-OV8eLhoQJjc5RTk_KWggsyan-pHYGACLcBGAsYHQ/s1600/19c_image.jpg"/>
+</p>
 
 Oracle SQL Developer:
 
-![](https://techgoeasy.com/wp-content/uploads/2016/07/oracle_sql_developer.png)
+<p align="center">
+  <img src="https://techgoeasy.com/wp-content/uploads/2016/07/oracle_sql_developer.png"/>
+</p>
 
 Oracle SQL Developer Data Modeler:
 
-![](https://3.bp.blogspot.com/_JWosBXRVxhY/SmRTRCFsYBI/AAAAAAAADPY/0CjvoQOftVQ/s400/Oracle_sql_developer_data_modeler.jpg)
+<p align="center">
+  <img src="https://3.bp.blogspot.com/_JWosBXRVxhY/SmRTRCFsYBI/AAAAAAAADPY/0CjvoQOftVQ/s400/Oracle_sql_developer_data_modeler.jpg"/>
+</p>
 
 Microsoft Power BI:
 
-![](https://iexcel.in/wp-content/uploads/2020/05/Power-Bi-1-850x440.jpg)
+<p align="center">
+  <img src="https://iexcel.in/wp-content/uploads/2020/05/Power-Bi-1-850x440.jpg"/>
+</p>
 
 
 ## Implemetación y visualización de los datos limpios y procesados
